@@ -28,10 +28,10 @@ body {
 
   .bg-atmosphere {
     background:
-      radial-gradient(ellipse 80% 60% at 15% 10%, rgba(26, 159, 122, 0.18), transparent 55%),
-      radial-gradient(ellipse 70% 50% at 90% 20%, rgba(118, 148, 161, 0.22), transparent 50%),
-      radial-gradient(ellipse 60% 40% at 50% 100%, rgba(14, 21, 25, 0.06), transparent 55%),
-      linear-gradient(165deg, #eef4f5 0%, #f7fafb 45%, #e8f0f2 100%);
+      radial-gradient(ellipse 85% 55% at 12% 8%, rgba(26, 159, 122, 0.22), transparent 55%),
+      radial-gradient(ellipse 70% 50% at 88% 18%, rgba(118, 148, 161, 0.28), transparent 52%),
+      radial-gradient(ellipse 55% 40% at 55% 100%, rgba(14, 21, 25, 0.07), transparent 55%),
+      linear-gradient(165deg, #eaf3f4 0%, #f8fbfc 42%, #e7f0f2 100%);
   }
 
   .bg-grid {

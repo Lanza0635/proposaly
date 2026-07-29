@@ -43,13 +43,18 @@ const config: Config = {
         },
         float: {
           "0%, 100%": { transform: "translateY(0)" },
-          "50%": { transform: "translateY(-8px)" },
+          "50%": { transform: "translateY(-10px)" },
+        },
+        "pulse-soft": {
+          "0%, 100%": { opacity: "0.55" },
+          "50%": { opacity: "0.9" },
         },
       },
       animation: {
         "fade-up": "fade-up 0.7s ease-out forwards",
         "fade-in": "fade-in 0.6s ease-out forwards",
         float: "float 6s ease-in-out infinite",
+        "pulse-soft": "pulse-soft 5s ease-in-out infinite",
       },
     },
   },
