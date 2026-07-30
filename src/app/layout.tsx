@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   title: "Proposaly — Professional Proposal & PDF Generator",
   description:
     "Create professional B2B proposals and PDF reports in seconds with live preview.",
+  verification: {
+    google: "jRuRfYPTlK56-rUOWdJWsdSgM7DKxMAjUM67YvsQTcw",
+  },
 };
 
 export default function RootLayout({
